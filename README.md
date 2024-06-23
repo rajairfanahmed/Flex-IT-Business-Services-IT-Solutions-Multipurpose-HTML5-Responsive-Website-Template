@@ -1,0 +1,2 @@
+# Flex-IT-Business-Services-IT-Solutions-Multipurpose-HTML5-Responsive-Website-Template
+Flex-IT is a modern and responsive HTML 5 multipurpose Bootstrap 5 template that can serve startup digital agencies, SEO agencies, web development, and online marketing services.  We designed the Flex-IT template to be trendy, sleek, and elegant to add more attractiveness and a professional look to your website pages. 
